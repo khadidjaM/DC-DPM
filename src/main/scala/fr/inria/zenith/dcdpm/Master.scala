@@ -1,4 +1,4 @@
-package com.mycompany.dcdpm
+package fr.inria.zenith.dcdpm
 
 import org.apache.commons.math3.distribution.BetaDistribution
 import org.apache.commons.math3.distribution.GammaDistribution
