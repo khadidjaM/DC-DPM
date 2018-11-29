@@ -1,6 +1,10 @@
 # DC-DPM
 
-This is a Distributed Clustering with Spark based on Dirichlet Process Mixture.
+This is a Distributed Clustering with Spark based on Dirichlet Process Mixture, this approach is described in the following paper:
+
+Khadidja Meguelati, Benedicte Fontez, Nadine Hilgert, and Florent Masseglia.2019. Dirichlet Process Mixture Models made Scalable and Effective by meansof Massive Distribution. InProceedings of ACM SAC Conference (SAC’19).
+
+Please kindly cite our paper if the code helps you. Thank you.
 
 ## Requirements
 DC-DPM works with [Apache Spark](http://spark.apache.org). In order to run it you must download and install [Spark Release 2.0.0](https://spark.apache.org/releases/spark-release-2-0-0.html).
