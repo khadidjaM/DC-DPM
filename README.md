@@ -2,9 +2,24 @@
 
 This is a Distributed Clustering with Spark based on Dirichlet Process Mixture, this approach is described in the following paper:
 
-Khadidja Meguelati, Benedicte Fontez, Nadine Hilgert, and Florent Masseglia.2019. Dirichlet Process Mixture Models made Scalable and Effective by meansof Massive Distribution. InProceedings of ACM SAC Conference (SAC’19).
+Khadidja Meguelati, Benedicte Fontez, Nadine Hilgert, and Florent Masseglia.2019. [Dirichlet Process Mixture Models made Scalable and Effective by meansof Massive Distribution](https://hal.archives-ouvertes.fr/hal-01999453). InProceedings of ACM SAC Conference (SAC’19).
 
 Please kindly cite our paper if the code helps you. Thank you.
+
+@inproceedings{meguelati:hal-01999453,
+  TITLE = {Dirichlet Process Mixture Models made Scalable and Effective by means of Massive Distribution},
+  AUTHOR = {Meguelati, Khadidja and Fontez, B{\'e}n{\'e}dicte and Hilgert, Nadine and Masseglia, Florent},
+  URL = {https://hal.archives-ouvertes.fr/hal-01999453},
+  BOOKTITLE = {{SAC: Symposium on Applied Computing}},
+  ADDRESS = {Limassol, Cyprus},
+  YEAR = {2019},
+  MONTH = Apr,
+  DOI = {10.1145/3297280.3297327},
+  KEYWORDS = {Dirichlet Process Mixture Model ; Clustering ; Parallelism},
+  PDF = {\url{https://hal.archives-ouvertes.fr/hal-01999453/file/ACM_SigConf_SAC2019.pdf}},
+  HAL_ID = {hal-01999453},
+  HAL_VERSION = {v1}
+}
 
 ## Requirements
 DC-DPM works with [Apache Spark](http://spark.apache.org). In order to run it you must download and install [Spark Release 2.0.0](https://spark.apache.org/releases/spark-release-2-0-0.html).
