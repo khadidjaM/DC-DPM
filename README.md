@@ -28,7 +28,7 @@ DC-DPM works with [Apache Spark](http://spark.apache.org). In order to run it yo
 The code is written in [Scala](https://www.scala-lang.org/), install [Scala 2.11.6](https://www.scala-lang.org/download/2.11.6.html)
 
 ## Building
-We use maven to build it, Use the given [pom.xml](https://github.com/anonymeDoc/DC-DPM/blob/master/pom.xml) file to build an executable jar containing all the dependencies.
+We use maven to build it, Use the given [pom.xml](https://github.com/khadidjaM/DC-DPM/blob/master/pom.xml) file to build an executable jar containing all the dependencies.
 
 ## Use
 To execute DC-DPM use the following command :
